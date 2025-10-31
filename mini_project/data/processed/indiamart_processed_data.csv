@@ -1,0 +1,197 @@
+product_id,location,brand,fabric_type,pattern,gsm,usage,availability,price,unit,currency
+1,Ichalkaranji,Prabhu Naidu Limited,Woven,Plain/Solids,110,"Home Furnishing, Lining",In Stock,27,Meter,INR
+2,Mumbai,Bhansali Exports,Cotton printed fabric,Printed,,,In Stock,95,Meter,INR
+3,Surat,Stitch Knit Fabrics,Cotton,Plain,200,Upholstery,In Stock,499,Meter,INR
+4,Muradnagar,Vipin Cottage Industries,,,,,In Stock,45,Meter,INR
+5,Jaipur,Khushi Handicraft,Dyeable & Basic Fabrics,Printed,80-100 GSm,Apparel/Clothing,In Stock,125,Meter,INR
+6,Muradnagar,Maa Vaishno Devi Trading Co.,Pure Cotton,Plain/Solids,250 GSM,,In Stock,65,Meter,INR
+7,Jaipur,Radhamohan Enterprises,,Floral Prints,100,Ladies Suit,In Stock,68,Meter,INR
+8,Jaipur,Trade Star Exports,100% Cotton,Tie Dye Shibori,80 Appromax,,In Stock,125,Meter,INR
+9,Surat,Maheshwari Silk Mills,Dyeable & Basic Fabrics,Plain/Solids,80,Apparel/Clothing,In Stock,65,Meter,INR
+10,Balotra,Satvik Textile Mills,Cotton,,,,In Stock,69,Meter,INR
+11,Surat,Shree Kuber Fashion,,Plain/Solid,180,,In Stock,190,Kg,INR
+12,New Delhi,Batra Traders,,Raw,,,In Stock,105,Kg,INR
+13,Jaipur,Maharani Machine & Textiles,Polyester,,,Industrial,In Stock,180,Kg,INR
+14,Panipat,Shree Durga Spinning Mills,Polyester,,,Industrial,In Stock,50,Kg,INR
+15,Nagpur,Sharda Group,Melange,Plain,,Textile Industry,In Stock,260,Piece,INR
+16,Mumbai,Ajanta Stationery Mart,,,,,In Stock,1000,Kg,INR
+17,Kolkata,TJP Jute Exports Private Limited,Jute,,,,In Stock,128,Kg,INR
+18,New Delhi,Alpha Enterprise,,,,,In Stock,200,Piece,INR
+19,New Delhi,A K American Fashion,Denim,,,,In Stock,499,Piece,INR
+20,Jaipur,M. B. Exports,,,,,In Stock,900,Piece,INR
+21,Mumbai,Fabricca,leather,,,Garments,In Stock,545,Meter,INR
+22,Ludhiana,Monbros Tradex Private Limited,Woolen,,,,In Stock,259,,INR
+23,Noida,Saboori International,Woolen,Printed,,,In Stock,1200,,INR
+24,Nadia,Pal Sarees,tissue linen,Plain,,,In Stock,1150,Piece,INR
+25,Jaipur,Khandelwal Print,Cotton,,,,In Stock,650,Piece,INR
+26,Surat,Blue Needle Exports,Heavy Jimmi Choo,Plain,,,In Stock,1450,Piece,INR
+27,Jaipur,Fabriq,Linen,Printed,,,In Stock,1050,,INR
+28,Surat,Baba Ramdev Textiles,SILK,,,,In Stock,375,Piece,INR
+29,Surat,Shree Balaji Textile,60 gm Georgette,,,,In Stock,850,Piece,INR
+30,Surat,Saree Mall ( A Unit Of Aarsh Lifestyle Private Limited),Silk,Printed,,,In Stock,700,Piece,INR
+31,Surat,Saurya Life Style,Silk,Printed,,,In Stock,499,Piece,INR
+32,Surat,Thankar India E-commerce,Georgette,Border,,,In Stock,2845,Piece,INR
+33,Surat,Fabzone,Georgette,Plain,,,In Stock,650,Piece,INR
+34,Surat,Mahant Creation,Silk,Printed,,,In Stock,1350,Piece,INR
+35,Surat,Ritu Fashion,Linen,Printed,,,In Stock,600,,INR
+36,Bhagalpur,N Fabrics,,,,,In Stock,520,Piece,INR
+37,Surat,Ethnic Wear Creation,Silk,Embroidered,,,In Stock,849,Piece,INR
+38,Jaipur,HP Creation,Silk,,,,In Stock,1625,Piece,INR
+39,Jaipur,Dosaya Bagru Textiles,Cotton,,,,In Stock,750,Piece,INR
+40,Surat,Grootinn,Silk,Printed,,,In Stock,620,Piece,INR
+41,Chennai,Napas Handlooms,Kota Cotton Sarees,Kota Sarees,,,In Stock,550,Piece,INR
+42,Surat,The Indian Vastra,Silk,,,,In Stock,1699,Piece,INR
+43,Jaipur,Mosato Creation,Cotton Linen,,,,In Stock,900,,INR
+44,Surat,Apple Lifestyle Industries Limited,,,,,In Stock,945,Piece,INR
+45,Chennai,Uddup,Silk,Printed,,,In Stock,6300,Piece,INR
+46,Surat,Kothari Nx,,Printed,,,In Stock,549,Piece,INR
+47,Surat,Merchmelow,Poly Cotton,,,,In Stock,525,Piece,INR
+48,Surat,Sukhvila Clothing,Silk,,,,In Stock,699,Piece,INR
+49,Surat,Adbhutah Enterprise,Zimmy choo,Plain,,,In Stock,1000,Piece,INR
+50,Surat,Riddhi Siddhi Fashion,,Printed,,,In Stock,300,Piece,INR
+51,Ludhiana,Swasika Group ( A unit of Swastika Steel Industries),"Chiffon, Georgette, Net","Border, Embroidered",,,In Stock,1500,Piece,INR
+52,Amritsar,P S Mehra And Co.,Woolen,,,,In Stock,140,,INR
+53,Srinagar,Rian Impex Private Limited,,,,,In Stock,15000,,INR
+54,Amritsar,Vishal Associates,Wool,,,,In Stock,180,,INR
+55,Amritsar,Hemant Textiles,Woolen,,,,In Stock,450,,INR
+56,Jaipur,Little India,,,,,In Stock,557,,INR
+57,Amritsar,English Creations Craze,,,,,In Stock,450,,INR
+58,New Delhi,Safe Exports,Fine Wool,Embroidered,,"Daily, Evening, Bridal, Other, Meditation, Wedding, Prayer",In Stock,1800,,INR
+59,Amritsar,Radhika Textiles Prop. Sanjeev Kumar Popli,Poly Wool,Solid,,,In Stock,117,,INR
+60,Amritsar,Kshitiz Textiles,Wool,,,,In Stock,950,,INR
+61,Kolkata,Manini Fashions,,,,,In Stock,125,,INR
+62,Ludhiana,Khanna International,Woolen,,,,In Stock,45,,INR
+63,Amritsar,S.B. Gold Fabrics,Woolen,,,,In Stock,1400,,INR
+64,Ludhiana,P L Industries,Wool,Embroidered,150-200,Shawl,In Stock,1075,,INR
+65,Mumbai,Sam Inc,Wool,,,,In Stock,499,,INR
+66,Amritsar,Shivam Textile Mills,Woolen,,,,In Stock,280,,INR
+67,Varanasi,Shivam Arts,,,,,In Stock,250,,INR
+68,Ludhiana,Rekhi Weaving Factory,,,,,In Stock,245,,INR
+69,Panipat,A. A. Enterprises,,Plain,,,In Stock,200,,INR
+70,New Delhi,Gaah Exports,Wool,Wool,,,In Stock,1200,,INR
+71,Ludhiana,Saluja Brothers,,,,,In Stock,750,,INR
+72,Ludhiana,Veer Jee Shawl Emporium,Woolen,,,,In Stock,240,,INR
+73,Panipat,Krishna Texo Fab,Wool,,,,In Stock,100,,INR
+74,Amritsar,Sawan Shah Moti Lal,Woolen,Embroidered,,,In Stock,2750,,INR
+75,Ludhiana,S.Biotex Private Limited,Woolen,,,,In Stock,500,,INR
+76,Noida,Ahujasons Shawlwale Private Limited,Woolen,,,,In Stock,2500,,INR
+77,Ludhiana,Swami Textiles Pvt. Ltd.,Woolen,,,,In Stock,550,,INR
+78,Chennai,Agarwal Enterprises,Crash Italian Leather,Plain,250 GSM,Bag,In Stock,105,Meter,INR
+79,Kanpur,AL Fattaah Leather,,,,Shoe,In Stock,52,sq,INR
+80,Rajkot,Rajkrupa Enterprise,,jacqured,,All purpose,In Stock,1480,Meter,INR
+81,Kanpur,World Fashion,,,,Garments,In Stock,89,Square,INR
+82,Mumbai,Industrial Adhesive Tapes Industry,,,650 GSM,"Bag, Garments, Belts",In Stock,145,Meter,INR
+83,Gurugram,Fabric First,,"Plain,Printed",,Sofa,In Stock,200,Meter,INR
+84,New Delhi,Archon Vinyl,Fleece,,,Sofa,In Stock,405,sq,INR
+85,Vellore,Ayaan Leathers,,,,Garments,In Stock,55,sq,INR
+86,Ghaziabad,Shiv Shankar Industries,,Pearl Vaccum,,Furniture/Interior Decor,In Stock,120,Meter,INR
+87,New Delhi,Avon Fabrics,Crash Italian Leather,Plain,,Sofa,In Stock,85,Meter,INR
+88,New Delhi,Satkaar Fashions Private Limited,,,,,In Stock,585,Meter,INR
+89,Panipat,Anmol Texo Fab,,Plain,Above 250,Garments,In Stock,105,Meter,INR
+90,Panipat,Kyra Home,,,,SOFA,In Stock,220,Meter,INR
+91,New Delhi,Koomo Industry,Leather,Plain/Solid,,Bag,In Stock,130,Meter,INR
+92,Vellore,Just Hides,,Leopard / Cheetah,,Industrial,In Stock,160,sq,INR
+93,Kanpur,Sagar Trading Company,,Croco Print Leather,,Croco Print Leather,In Stock,90,sq,INR
+94,Bahadurgarh,SV Leathers (India) Pvt. Ltd.,,,,Garments,In Stock,130,Meter,INR
+95,Ahmedabad,Veganvista Corp Private Limited,Vegan Leather,,,Garments,In Stock,90,sq,INR
+96,Panipat,Shree Radhey Furnishing,,plain,,,In Stock,160,Meter,INR
+97,Ghaziabad,Response Fabrics (India) Pvt. Ltd.,100 % polyester,Plain,Above 250,Cushions,In Stock,350,Meter,INR
+98,New Delhi,R K Rexine Store,LeatherLeather look,,,,In Stock,120,Meter,INR
+99,Kolkata,Apex Trading,,Milled,,Garment,In Stock,50,sq,INR
+100,Kolkata,Ahmed Enterprise,leather,Plain,,Industrial,In Stock,90,Square,INR
+101,Kanpur,Habib International,,,,Bag,In Stock,160,sq,INR
+102,Gurugram,Knitwell Industries,,,,"Used in purses, clutches, handbags, travel kits",In Stock,150,Meter,INR
+103,Halol,Natroyal Industries Private Limited (Natroyal Group),Leather,,,Garments,In Stock,150,sq,INR
+104,Surat,Sadabahar Fashion,Mid Weight (12-14 oz),,,,In Stock,300,Piece,INR
+105,New Delhi,Hare Krishna Garments,,,,,In Stock,495,Piece,INR
+106,Ludhiana,Saini Knitwears,,Washed,,,In Stock,390,Piece,INR
+107,Chennai,Trendy Crew Exports,Cotton,,,,In Stock,2000,Piece,INR
+108,Ludhiana,Nile Fashion,,Washed,,,In Stock,250,Piece,INR
+109,Gyanpur,Lal Chandra Agency,Denim,,,,In Stock,215,Piece,INR
+110,Kolkata,Ritika Fashions,Cotton,Faded,,,In Stock,400,Piece,INR
+111,New Delhi,Denim Valley,,Plain,,,In Stock,390,Piece,INR
+112,Ulhasnagar,Online Offline Factory,Denim,Plain,,,In Stock,400,Piece,INR
+113,Chennai,Tetra Clothing,Denim,Plain,,,In Stock,700,Piece,INR
+114,New Delhi,Jasmine Clothing Co.,Denim,Faded,,Men,In Stock,745,Piece,INR
+115,Surat,MR Fashion Factory,Denim,Plain,,,In Stock,300,Piece,INR
+116,New Delhi,Star Denim Enterprises,Denim,Plain,,,In Stock,500,Piece,INR
+117,New Delhi,Shree Paras Exports,Denim,Plain,,,In Stock,450,Piece,INR
+118,New Delhi,Shiv Enterprises,Denim,letest,,,In Stock,60,Piece,INR
+119,Bhopal,DSG World Fashion Wear Pvt. Ltd.,,Printed,,,In Stock,230,Piece,INR
+120,Thane,M V Fashion,,,,,In Stock,550,Piece,INR
+121,New Delhi,Udyaan Apparels,Denim,Washed,,,In Stock,490,Piece,INR
+122,Bengaluru,Suntex Inc.,Denim,Plain,,,In Stock,400,Piece,INR
+123,New Delhi,Rana International Traders And Manufacturers,Denim,,,,In Stock,375,Piece,INR
+124,New Delhi,VRS Fit Denim Jeans,Denim,Plain,,,In Stock,450,Piece,INR
+125,Bardoli,Sapariya International,Denim,,,,In Stock,271,Piece,INR
+126,New Delhi,Denim Mart Enterprises,Denim,Plain,,,In Stock,395,Piece,INR
+127,New Delhi,Bhagwati Trading Agency,,,,,In Stock,365,Piece,INR
+128,Mumbai,L.G.Garment,,Washed,,,In Stock,350,Piece,INR
+129,Surat,Balaji Fashion,Denim,Plain,,,In Stock,600,Piece,INR
+130,New Delhi,Himanshu Jute Fab,,Dyed,,Textile Industry,In Stock,200,Kg,INR
+131,Mumbai,Nickunj Eximp Entp Private Limited,,,,,In Stock,,,
+132,Dhoraji,Tulsi Packaging,,,,Packaging,In Stock,114,Kg,INR
+133,Mathura,Radha Govind Niwar Industries,,Plain,,Textile Industry,In Stock,73,Kg,INR
+134,Ludhiana,Kohetoor Woollen Mills,,,,,In Stock,230,Kg,INR
+135,Ahmedabad,Manmohan Cottage Industries,,,,,In Stock,850,Kg,INR
+136,Madurai,Sri Meenakshi Traders,,,,,In Stock,22,Kg,INR
+137,Surat,Aum Sai Enterprise,Linen,Plain,,Weaving,In Stock,350,Kg,INR
+138,Coimbatore,AMBERLY TEXTILES,Cotton,,,As per the Buyers demand,In Stock,199,Kg,INR
+139,Ahmedabad,L K Y Mills,,,,Weaving,In Stock,130,Kg,INR
+140,Hyderabad,Labteknik,,,,Textile Industry,In Stock,99,Kg,INR
+141,Jaipur,Craft Affair (A Brand Of Artify ),Cotton,,,Knitting,In Stock,65,Piece,INR
+142,Ludhiana,Jainson Woolcombers Pvt. Ltd.,Cotton Wool,,,Knitting,In Stock,600,Kg,INR
+143,Mumbai,Ravi Exports,,Dyed,,Textile Industry,In Stock,2000,Kg,INR
+144,Surat,Meher International,Polyester,Raw,,Weaving,In Stock,180,Kg,INR
+145,New Delhi,Luxmi Kant Traders,,Plain,,Bag Stitching,In Stock,145,Kg,INR
+146,Panipat,Nirmal Cotton Private Limited,Cotton,,,Weaving,In Stock,80,Kg,INR
+147,Panipat,Gupta Spinning,Cotton,,,Weaving,In Stock,95,Kg,INR
+148,Ludhiana,Bajaj & Sons,Acrylic,,,Textile Industry,In Stock,158,Kg,INR
+149,Ludhiana,Jainson Hosiery Industries (Regd.),Acrylic,,,Knitting,In Stock,400,Kg,INR
+150,Meerut,A To Z Yarn Traders,,Dyed,,Knitting,In Stock,220,kg,INR
+151,New Delhi,J.P.Fibres,Nylon,Plain,,any,In Stock,275,Kg,INR
+152,Surat,Tulsi Tex,100% POLYESTER,Plain,50-100,"POLYESTER CRAPE FABRIC IS USER FOR LINING IN GOWNS, LEHENGA, FROCKS, TOPS, KURTI.",In Stock,28,Meter,INR
+153,Surat,Khazana Syntex,spun,,210 to 220,t shirts,In Stock,270,Meter,INR
+154,Surat,R. K. Knittex India,Polyester,Two Tone,50-100,Tops,In Stock,30,Meter,INR
+155,Ghaziabad,Response Fabrics (India) Pvt. Ltd.,100% Polyester,Plain / Solids,350 GSM,Apparel/Clothing,In Stock,130,Meter,INR
+156,Noida,Glemtech Plast Private Limited,Polyester,"SELFLINE,ZIGZAK,CUBE,LEHERIYA,PIANO",150-200,,In Stock,75,Meter,INR
+157,Ludhiana,Mahesh Textiles,Polyester,Plain / Solids,100 GSM,Apparel/Clothing,In Stock,210,Meter,INR
+158,Ludhiana,Kuber Enterprises,100% Polyester,Plain / Solids,170 GSM,Apparel/Clothing,In Stock,180,Meter,INR
+159,Ludhiana,VKK Industries Private Limited,,,180,,In Stock,205,Kg,INR
+160,Surat,Harsh Prints,Polyester,Plain/Solid,200,T-shirts,In Stock,220,Kg,INR
+161,Ludhiana,R K Knit Fab,Polyester,,180,T-Shirts,In Stock,220,Kg,INR
+162,New Delhi,Goyal Textiles,,Printed,100,Shirts,In Stock,55,Meter,INR
+163,Ludhiana,Kayra Knitting Works,100% Polyester,Plain / Solids,160-200,Apparel/Clothing,In Stock,200,Kg,INR
+164,Unnao,M/S Kanpur Canvas Industries,Polyester,RIB STOP,300-500,"Bags, tarpaulins",In Stock,160,Meter,INR
+165,Surat,Stitch Knit Fabrics,Polyester,Plain,250 GSM,Burkha,In Stock,1500,Meter,INR
+166,Bhilwara,Veda Texfab Private Limited,,Plain / Solids,200,Suiting,In Stock,56,Meter,INR
+167,Surat,L K Fab Private Limited,,Embroidered,150,Ladies Top,In Stock,160,Meter,INR
+168,Ludhiana,Hari Har Textiles,,Plain/Solid,220,,In Stock,220,Kg,INR
+169,New Delhi,Positex Private Limited,"92% Polyester, 8% Spandex",,150-160 GSM,,In Stock,,,
+170,New Delhi,Sandeep Synthetics,Polyester Spandex,,135/140,,In Stock,85,Meter,INR
+171,Ludhiana,Godson Knitting Works,Polyester,Plain/Solid,200 GSM,Apparel/Clothing,In Stock,210,Kg,INR
+172,New Delhi,Hanuman Prasad & Sons,100% Polyester,Printed,100 GSM,Apparel/Clothing,In Stock,150,Meter,INR
+173,Surat,Tulsi International,POLYESTER,Dyed,50-100,Garment,In Stock,25,Meter,INR
+174,Ahmedabad,Mafatlal Gujarat Industries,Polyester,,100-150 GSM,,In Stock,170,Meter,INR
+175,Tiruppur,Knit Zone,Polyester Spandex,Plain/Solid,200 GSM,Apparel & Clothing,In Stock,361,Kg,INR
+176,Tiruppur,Pranera Services And Solutions Private Limited,100% Polyester,Plain / Solids,150 GSM,Apparel/Clothing,In Stock,383,Kg,INR
+177,Ludhiana,S.Biotex Private Limited,,Self-Design (Dobby/Jacquard),180,,In Stock,110,Meter,INR
+178,Surat,Chandra Fashion,,Solid,220,Medical Garments,In Stock,245,Kg,INR
+179,New Delhi,Kamlesh Textiles,100% Cotton,Plain/Solids,,Shirts/Tops,In Stock,100,Meter,INR
+180,Ludhiana,Mansi Fabrics,Cotton,Plain,220,Lowers,In Stock,380,Kg,INR
+181,Jaipur,Priyanshi Textiles,100% Cotton,,,,In Stock,70,Meter,INR
+182,Mumbai,Rajesh Rayon Silk Mills Ltd.,Cotton,Stripes,50 TO120,,In Stock,30,Meter,INR
+183,Ludhiana,Radhika Farbics,Dyeable & Basic Fabrics,Plain/Solids,,Apparel/Clothing,In Stock,445,Meter,INR
+184,Tiruppur,Textile Export Corporation,,,100,,In Stock,79,Meter,INR
+185,Ludhiana,Veetrag Enterprises,Pure Cotton,,,Apparel/Clothing,In Stock,340,Kg,INR
+186,Jaipur,Lucky Handicraft,Cambric,Floral,100,Garment,In Stock,70,Meter,INR
+187,Jaipur,Remtex Export (D To D Lifestyle),Cotton,Stripes,150,Ladies Suit,In Stock,199,Meter,INR
+188,Ludhiana,S.Biotex Private Limited,Cotton,RFD / For Dyeing,180 GSM,Shirting,In Stock,180,Meter,INR
+189,Surat,Vandeep International,,,98,KURTI AND CORD-SET,In Stock,98,Meter,INR
+190,Ludhiana,Swami Textiles Pvt. Ltd.,,Plain/Solid,,,In Stock,430,Kg,INR
+191,Jaipur,Bluzka Prints,Cotton,Printed,120 GSM,,In Stock,63,Meter,INR
+192,Erode,Sri Kalyan Export Private Limited,Pure Cotton,Plain,,"Apparel/Clothing, Upholstery & Home Furnishings",In Stock,145,Meter,INR
+193,Jaipur,Anagha Creation,Pure Cotton,Floral,'100,Apparel/Clothing,In Stock,70,Meter,INR
+194,Tiruppur,The Kothari Fabs,,,,,In Stock,800,Meter,INR
+195,Ludhiana,Pooja Industries Private Limited,Yarn Dyed Fabrics,Plain/Solids,,,In Stock,130,Meter,INR
+196,Tiruppur,Knit Zone,100% Cotton,Plain/Solids,120 to 160,Apparel/Clothing,In Stock,130,Meter,INR
